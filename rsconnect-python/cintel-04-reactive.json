@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/ashleymersman/Desktop/Continuous_Intelligence/cintel-04-reactive",
+        "app_url": "https://amersman.shinyapps.io/cintel-04-app/",
+        "app_id": 9470222,
+        "app_guid": null,
+        "title": "cintel-04-app",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
